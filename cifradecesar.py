@@ -8,5 +8,5 @@ def encriptar (message, key):
     return encriptada 
 
 message = input("Qual é a sua mensagem?")
-mensagem_encriptada = encriptar(message, 10)
+mensagem_encriptada = encriptar(message, 3)
 print(mensagem_encriptada)
